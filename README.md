@@ -24,11 +24,11 @@ Due to its size, the original dataset is 2.7GB and was compressed to 700MB for u
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/ansh-info/Industrial-Scale-Penicillin-Simulation.git>
     ```
 2. Navigate to the project directory:
     ```sh
-    cd <project-directory>
+    cd <Industrial Scale Penicillin Simulation>
     ```
 3. Install the required packages:
     ```sh
@@ -42,24 +42,6 @@ Due to its size, the original dataset is 2.7GB and was compressed to 700MB for u
     - Run the `1. Cleaning-Dataset.ipynb` notebook to clean the dataset and generate the final CSV file with 33 columns.
 2. **Machine Learning Analysis:**
     - Run the `2. Regression-Penicillin Simulation.ipynb` notebook to perform the regression analysis and other machine learning tasks.
-
-## Project Structure
-
-│
-├── data/
-│ ├── 100_Batches_IndPenSim_V3.csv
-│ └── Cleaned_33_columns.csv
-│
-├── notebooks/
-│ ├── 1. Cleaning-Dataset.ipynb
-│ └── 2. Regression-Penicillin Simulation.ipynb
-│
-├── images/
-│ ├── data_cleaning.png
-│ └── regression_analysis.png
-│
-├── requirements.txt
-└── README.md
 
 ## Machine Learning Analysis
 ### Data Cleaning
