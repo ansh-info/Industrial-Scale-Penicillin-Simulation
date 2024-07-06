@@ -1,4 +1,4 @@
-# Industrial Scale Penicillin Simulation - Machine Learning Project
+# Industrial Scale Penicillin Simulation
 
 ## Overview
 This project aims to leverage the Industrial-scale Penicillin Simulation dataset to investigate and improve control strategies in large-scale fermentations. Our objectives include exploring the relationships between input parameters and their impacts on outcomes, identifying the batch achieving the highest penicillin concentration, and examining correlations between penicillin concentration and other variables. This study aims to advance bioprocess control and optimization in contemporary biopharmaceutical facilities.
