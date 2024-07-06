@@ -44,7 +44,7 @@ Due to its size, the original dataset is 2.7GB and was compressed to 700MB for u
     - Run the `2. Regression-Penicillin Simulation.ipynb` notebook to perform the regression analysis and other machine learning tasks.
 
 ## Project Structure
-project-directory/
+
 │
 ├── data/
 │ ├── 100_Batches_IndPenSim_V3.csv
