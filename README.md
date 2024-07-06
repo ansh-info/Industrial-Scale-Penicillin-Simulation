@@ -11,11 +11,11 @@ Due to its size, the original dataset is 2.7GB and was compressed to 700MB for u
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone <https://github.com/ansh-info/Industrial-Scale-Penicillin-Simulation.git>
+    git clone https://github.com/ansh-info/Industrial-Scale-Penicillin-Simulation.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd <Industrial Scale Penicillin Simulation>
+    cd Industrial Scale Penicillin Simulation
     ```
 3. Install the required packages:
     ```sh
