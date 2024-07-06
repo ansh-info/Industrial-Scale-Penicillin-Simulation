@@ -3,19 +3,6 @@
 ## Overview
 This project aims to leverage the Industrial-scale Penicillin Simulation dataset to investigate and improve control strategies in large-scale fermentations. Our objectives include exploring the relationships between input parameters and their impacts on outcomes, identifying the batch achieving the highest penicillin concentration, and examining correlations between penicillin concentration and other variables. This study aims to advance bioprocess control and optimization in contemporary biopharmaceutical facilities.
 
-## Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Machine Learning Analysis](#machine-learning-analysis)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact Information](#contact-information)
-
 ## Dataset
 The dataset used in this project is from Kaggle: [Big Data-Biopharmaceutical manufacturing](https://www.kaggle.com/datasets/stephengoldie/big-databiopharmaceutical-manufacturing/data).
 
@@ -59,28 +46,18 @@ The `2. Regression-Penicillin Simulation.ipynb` notebook performs the following 
 - Develops regression models to predict penicillin concentration.
 - Evaluates model performance using various metrics.
 
-## Features
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Regression modeling
-- Model evaluation and validation
-
-## Contributing
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-We would like to thank the original dataset creator and Kaggle for providing the platform to share this data.
-
-## Contact Information
-For any queries or feedback, please contact [your-email@example.com].
-
 ## Images
 ### Data Cleaning Process
 ![Data Cleaning Process](images/data_cleaning.png)
 
 ### Regression Analysis
 ![Regression Analysis](images/regression_analysis.png)
+
+## Acknowledgements
+We would like to thank the original dataset creator and Kaggle for providing the platform to share this data.
+
+## Contact Information
+For any queries or feedback, please contact [anshkumar.info@gmail.com].
+
+
 
