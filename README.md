@@ -55,9 +55,3 @@ The `2. Regression-Penicillin Simulation.ipynb` notebook performs the following 
 
 ## Acknowledgements
 We would like to thank the original dataset creator and Kaggle for providing the platform to share this data.
-
-## Contact Information
-For any queries or feedback, please contact [anshkumar.info@gmail.com].
-
-
-
