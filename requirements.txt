@@ -1,8 +1,7 @@
-matplotlib
-nbformat
-numpy
 pandas
-scipy
+numpy
 seaborn
-sklearn
+matplotlib
+jupyter
+scikit-learn
 
